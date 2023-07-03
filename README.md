@@ -30,12 +30,7 @@ This repository contains examples and exercises related to various topics I've l
 
 ## Project Assignments
 
-This repository includes project assignments from different schools. If you want to contribute or submit project assignments, follow these steps:
-
-1. Go to the directory of the project assignment.
-2. Read the README.md file and understand the requirements of the project assignment.
-3. Complete the project assignment according to the given instructions.
-4. Submit your project assignment by following the guidelines mentioned in the README.md file.
+This repository includes project assignments from different schools.
 
 ## License
 
