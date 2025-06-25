@@ -20,15 +20,13 @@ int charErase(char myStr[], int pos[]) {
     }
 
     for (int i = 0; i < strSize; i++) {
-        char selectedChar = myStr[i];// S
+        char selectedChar = myStr[i]; // S
 
-        for(int j=0;j<posSize;j++ ) {
-            if (strcmp(charsToDelete[i],selectedChar)) {
-
+        for (int j = 0; j < posSize; j++) {
+            if (strcmp(charsToDelete[i], selectedChar)) {
                 continue;
             }
         }
-
     }
 
     return posSize;
